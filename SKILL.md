@@ -1,12 +1,10 @@
 ---
 name: bad-faith-diagnosis
-description: Diagnose how someone is deceiving themselves about their freedom using
-  Sartre's concept of bad faith (mauvaise foi). Expose the self-deception and reveal
-  the authentic acknowledgment of freedom tha...
+description: Diagnose how someone is deceiving themselves about their freedom using Sartre's concept of bad faith (mauvaise foi). Expose the self-deception and reveal the authentic acknowledgment of freedom tha...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - bad-faith-diagnosis
 - writing
